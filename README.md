@@ -52,3 +52,16 @@ QoS was successfully implemented using SDN by prioritizing ICMP traffic over TCP
 ## References
 - POX documentation
 - Mininet documentation
+## Proof of Execution
+
+### Ping (High Priority - ICMP)
+![Ping](https://github.com/<username>/qos-priority-controller/raw/main/ping-test.png)
+
+### Iperf (Low Priority - TCP)
+![Iperf](https://github.com/<username>/qos-priority-controller/raw/main/iperf-test.png)
+
+### Flow Table (QoS Rules)
+![Flow Table](https://github.com/<username>/qos-priority-controller/raw/main/flows-detail.png)
+
+### Controller Logs
+![Logs](https://github.com/<username>/qos-priority-controller/raw/main/controller-logs.png)
