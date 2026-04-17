@@ -64,4 +64,4 @@ QoS was successfully implemented using SDN by prioritizing ICMP traffic over TCP
 ![Flow Table](https://github.com/shamikamahesh223-lang/qos-priority-controller-/raw/main/flows-detail.jpeg)
 
 ### Controller Logs
-![Logs](https://github.com/<username>/qos-priority-controller/raw/main/controller-logs.png)
+![Logs](https://github.com/shamikamahesh223-lang/qos-priority-controller-/raw/main/controller-logs.jpeg)
