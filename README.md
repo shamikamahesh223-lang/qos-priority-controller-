@@ -58,7 +58,7 @@ QoS was successfully implemented using SDN by prioritizing ICMP traffic over TCP
 ![Ping](https://github.com/<username>/qos-priority-controller/raw/main/ping-test.png)
 
 ### Iperf (Low Priority - TCP)
-![Iperf](https://github.com/<username>/qos-priority-controller/raw/main/iperf-test.png)
+![Iperf](https://github.com/shamikamahesh223-lang/qos-priority-controller-/raw/main/iperf-output.jpeg)
 
 ### Flow Table (QoS Rules)
 ![Flow Table](https://github.com/<username>/qos-priority-controller/raw/main/flows-detail.png)
